@@ -1,3 +1,4 @@
-this is test
+#!/bin/bash
 
-second line added
+df -h
+free -m
