@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo "below lines will display disk space"
-df -h
+free -m
